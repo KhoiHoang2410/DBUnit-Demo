@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataset>
+    <USERS id='1' first_name='khoi' last_name='hoang' telegram_id='132' user_name='dsa'/>
+    <USERS id='2' first_name='huy' last_name='du' telegram_id='321' user_name='222'/>
+    <USERS id='3' first_name='khai' last_name='le' telegram_id='22' user_name='3333'/>
+</dataset>
